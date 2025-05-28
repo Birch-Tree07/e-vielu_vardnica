@@ -1,0 +1,381 @@
+[
+    {
+        "skaitlis":"E296",
+        "nosaukums": "Ābolskābe",
+        "kastasir":"Skābuma regulētājs, antioksidants",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā, bet var izraisīt ādas un gļotādas kairinājumu vai saaisināt herpesvīrusa simptonus."
+        },
+    {
+        "skaitlis":"E950",
+        "nosaukums": "Acesulfāms K",
+        "kastasir":"Mākslīgs saldinātājs, garšas un aromāta pastiprinātājs",
+        "komentārs":"Dzīvniekiem ir izraisījis plaušu un krūšu audzēju, leikēmiju, elpošanas orgānu slimības un vēzi "
+    },
+    {
+        "skaitlis":"E1420",
+        "nosaukums": "Acetilēta ciete",
+        "kastasir":"Biezinātājs, augu sveķi",
+        "komentārs":"Attiecībā uz modificētās cietes nekaitīgumu,īpaši - zīdaiņiem, pastāv neskaidrības"
+    },
+    {
+        "skaitlis":"E1450",
+        "nosaukums": "Acetilēta oksidēta ciete",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Attiecībā uz modificētās cietes nekaitīgumu,īpaši - zīdaiņiem, pastāv neskaidrības"
+    },
+    {
+        "skaitlis":"E1421",
+        "nosaukums": "Acetilētas dicietes adipināts",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Attiecībā uz modificētās cietes nekaitīgumu,īpaši - zīdaiņiem, pastāv neskaidrības"
+    },
+    {
+        "skaitlis":"E1414",
+        "nosaukums": "Acetilētas dicietes fosfāts",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Attiecībā uz modificētās cietes nekaitīgumu,īpaši - zīdaiņiem, pastāv neskaidrības"
+    },
+{
+        "skaitlis":"E355",
+        "nosaukums": "Adipīnskābe",
+        "kastasir":"Irdinātājs, buferviela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā. Vidēji toksiska, ja ieēd; teratogēna"
+    },
+    {
+        "skaitlis":"E406",
+        "nosaukums": "Agars",
+        "kastasir":"Biezinātājs, emulgators",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā. Viegli toksisks, ja ieēd; alerģiskas reakcijas"
+    },
+    {
+        "skaitlis":"E414",
+        "nosaukums": "Akācijas sveķi",
+        "kastasir":"Biezinātājs, emulgators",
+        "komentārs":"Mutes gļotādas bojājumi; astma; izsitumi uz ādas; nātrene; siena drudzis"
+    },
+    {
+        "skaitlis":"E307",
+        "nosaukums": "Alfa-tokoferols",
+        "kastasir":"Antioksidants, uzturviela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; saldējot iespējams iznīcināt"
+    },
+    {
+        "skaitlis":"E400",
+        "nosaukums": "Algīnskābe",
+        "kastasir":"Augu sveķi, biezinātājs",
+        "komentārs":"Neliels daudzums pārtikā esot nekaitīgs"
+    },
+    {
+        "skaitlis":"E523",
+        "nosaukums": "Alumīnija amonija sulfāts",
+        "kastasir":"Stabilizētājs, buferviela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā. ietojot lielā daudzumā, var rasties mutes un rīkles apdegums, kā arī vemšana un caureja."
+    },
+    {
+        "skaitlis":"E522",
+        "nosaukums": "Alumīnija kālija sulfāts",
+        "kastasir":"Buferviela, cietinātājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā. Lietojot lielā daudzumā, var rasties mutes un rīkles apdegums." 
+    },
+    {
+        "skaitlis":"E521",
+        "nosaukums": "Alumīnija nātrija sulfāts",
+        "kastasir":"Buferviela, ietinātājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā. Izsitumi uz ādas pēc kontakta; viegla sensibilizācija"
+    },
+    {
+        "skaitlis":"E559",
+        "nosaukums": "Alumīnija silikāts; kaolīns",
+        "kastasir":"Pretsalipes viela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā."
+    },
+    {
+        "skaitlis":"E520",
+        "nosaukums": "Alumīnija sulfāts",
+        "kastasir":"Modificētājs",
+        "komentārs":"Ieēdod vidēji toksisks. pūtītes padusēs; alerģiskas reakcijas; var ietekmēt dzimstību"
+    },
+    {
+        "skaitlis":"E173",
+        "nosaukums": "Alumīnijs",
+        "kastasir":"Krāsviela (metāliska)",
+        "komentārs":"Eiropas Parlaments pieņēmis lēmumu aizliegt alumīniju saturošas piedevas. Ieēšana vai ieelpošana var saasināt nieru un plaušu slimības; toksisks asinsrites orgānu, dzimumorgānu un nervu sistēmai; ir konstatēta saistība ar Alcheimeraslimību"
+    },
+    {
+        "skaitlis":"E129",
+        "nosaukums": "Alūra sarkanais AC",
+        "kastasir":"Krāsviela (oranža/ sarkana)",
+        "komentārs":"Kaitīgs veselībai.Dažās valstīs aizliegts (FD un C sarkanais nr. 40; akmeņogļu darvas krāsa)"
+    },
+    {
+        "skaitlis":"E512",
+        "nosaukums": "Alvas hlorīds (alvas sāls)",
+        "kastasir":"Antioksidants, krāsas stabilizētājs",
+        "komentārs":"Neliels toksiskums, bet var kairināt ādu un gļotādu."
+    },
+    {
+        "skaitlis":"E123",
+        "nosaukums": "Amarants",
+        "kastasir":"Krāsviela (zilgani sarkana)",
+        "komentārs":"Kaitīgs veselībai. Dažās valstīs aizliegts (sintētiska ķīmiska viela, ne graudaugs; FD un C sarkanais nr. 2; akmeņogļu darva un azokrāsviela)"
+    },
+    {
+        "skaitlis":"E403",
+        "nosaukums": "Amonija algināts",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Alginātiem var būt labvēlīga ietekme uz veselību;"
+    },
+    {
+        "skaitlis":"E442",
+        "nosaukums": "Amonija fosfatīdi",
+        "kastasir":"Emulgators, stabilizētājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E527",
+        "nosaukums": "Amonija hidroksīds",
+        "kastasir":"Skābuma regulētājs, neitralizētājs",
+        "komentārs":"Kairina acis un gļotādas; matu lūšana; ieēdot toksisks"
+    },
+    {
+        "skaitlis":"E150c",
+        "nosaukums": "Amonija karamele",
+        "kastasir":"Krāsviela (no tumši brūnas līdz melnai), aromatizētājs",
+        "komentārs":"Kaitīgs veselībai."
+    },
+    {
+        "skaitlis":"E503",
+        "nosaukums": "Amonija karbonāti",
+        "kastasir":"Buferviela, neitralizētājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā. Ja nonāk kontaktā, var rasties izsitumi uz galvas ādas, pieres un rokām."
+    },
+    {
+        "skaitlis":"E517",
+        "nosaukums": "Amonija sulfāts",
+        "kastasir":"Miltu apstrādes līdzeklis, stabilizētājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E150d ",
+        "nosaukums": "Amonija sulfīta karamele",
+        "kastasir":"Krāsviela",
+        "komentārs":"Pastāv nopietnas bažas par nekaitīgumu."
+    },
+    {
+        "skaitlis":"E160b",
+        "nosaukums": "Annato, biksīns, norbiksīns",
+        "kastasir":"Krāsviela (no dzeltenas līdz sarkanai)",
+        "komentārs":"Annato ir kaitīgs bērniem, bet biksīna un norbiksīna toksiskums tiek vēl tikai pārbaudīts."
+    },
+    {
+        "skaitlis":"E407a",
+        "nosaukums": "Apstrādātas jūraszāles Eucheuma",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Pastāv neskaidrības par šīs piedevas nekaitīgumu."
+    },
+    {
+        "skaitlis":"E938",
+        "nosaukums": "Argons (inerta gāze)",
+        "kastasir":"Iesaiņošanas gāze",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E300",
+        "nosaukums": "Askorbīnskābe (C vitamīns)",
+        "kastasir":"Konservants, antioksidants",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā. C vitamīnam piemīt daudzveidīga labvēlīga ietekme uz veselību."
+    },
+    {
+        "skaitlis":"E163",
+        "nosaukums": "Antocianīni",
+        "kastasir":"Krāsviela (sarkana, violeta)",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā. Uzskata, ka tiem piemīt ķermeņa aizsargfunkcijas."
+    },
+    {
+        "skaitlis":"E962",
+        "nosaukums": "Aspartāma-acesulfāma sāls",
+        "kastasir":"Mākslīgs saldinātājs",
+        "komentārs":"Sk. Aspartāms (951) un Acesulfāms K (E950)"
+    },
+    {
+        "skaitlis":"E951",
+        "nosaukums": "Aspartāms",
+        "kastasir":"Mākslīgs saldinātājs, garšas un aromāta pastiprinātājs",
+        "komentārs":"Organismā sadalās par metanolu, tad par formaldehīdu. Kopumā vairāk nekā 92 lieto ko šī viela var izraisīt; nav ieteicams bērniem; nav ieteicams sievietēm grūtniecības laikā; teratogēns"
+    },
+    {
+        "skaitlis":"E153",
+        "nosaukums": "Augogle",
+        "kastasir":"Krāsviela (melna)",
+        "komentārs":"Dažās valstīs aizliegts. Nedaudz toksisks, ja apēd, saskaras ar ādu vai ieelpo; iespējams, kancerogēns"
+    },
+    {
+        "skaitlis":"E122",
+        "nosaukums": "Azorubīns, karmoizīns",
+        "kastasir":"Krāsviela (sarkana)",
+        "komentārs":"(azokrāsviela; Dažās valstīs aizliegts) Astma; hiperaktivitāte; vajadzētu izvairīties cilvēkiem, kas ir jutīgi pret aspirīnu; kancerogēna viela dzīvniekiem"
+    },
+    {
+        "skaitlis":"E410",
+        "nosaukums": "Baltās akācijas sveķi",
+        "kastasir":"Biezinātājs, emulgators",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; var pazemināt holesterīna līmeni organismā"
+    },
+    {
+        "skaitlis":"E558",
+        "nosaukums": "Bentonīts",
+        "kastasir":"Biezinātājs, pretsalipes līdzeklis",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; var aizsprostot ādas poras, tādējādi kavējot pareizu ādas funkcionēšanu; sk. Alumīnijs (E173)"
+    },
+    {
+        "skaitlis":"E210",
+        "nosaukums": "Benzoskābe",
+        "kastasir":"Konservants, aromatizētājs",
+        "komentārs":"Astma; nātrene; uzvedības problēmas; hiperaktivitāte; var ietekmēt plaušas; kairina acis un ādu; cilvēkiem, kas ir jutīgi pret aspirīnu, vajadzētu izvairīties; neirotoksiska viela"
+    },
+    {
+        "skaitlis":"E459",
+        "nosaukums": "Beta-ciklodekstrīns",
+        "kastasir":"Pastu veidojošs līdzeklis, stabilizētājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E160f",
+        "nosaukums": "Beta-apo-8'-karotīnskābes etilesteris (C 30)",
+        "kastasir":"Krāsviela (no dzeltenas līdz oranžai)",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E160e",
+        "nosaukums": "Beta-apo-8'-karotināls (C 30)",
+        "kastasir":"Krāsviela (no oranžas līdz dzeltenai, sarkana)",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E162",
+        "nosaukums": "Biešu sarkanais; betanīns",
+        "kastasir":"Krāsviela (tumši sarkana, violeta)",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā. Satur nitrātus, tātad nav ieteicams bērniem."
+    },
+    {
+        "skaitlis":"E901",
+        "nosaukums": "Bišu vasks, baltais un dzeltenais",
+        "kastasir":"Glazētājviela, pulētājviela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā. vVar izraisīt viegli alerģiskas reakcijas un kontakta dermatītu."
+    },
+    {
+        "skaitlis":"E284",
+        "nosaukums": "Borskābe",
+        "kastasir":"Konservants, aktīva viela mutes dobuma higiēnai",
+        "komentārs":"Ir bijuši smagas saindēšanās gadījumi, kad ieēsta vai aplicēta uz nobrāztas ādas; toksiska iedarbība uz nierēm, asinsrites orgāniem, dzimum¬orgāniem, aknām un nervu sistēmu."
+    },
+    {
+        "skaitlis":"E151",
+        "nosaukums": "Briljanta melnais BN; melnais PN",
+        "kastasir":"Krāsviela (melna)",
+        "komentārs":"dažās valstīs aizliegts; nav ieteicams bērniem; kancerogēna viela; astma; hiperaktivitāte; var ietekmēt nieres un kunģi"
+    },
+    {
+        "skaitlis":"E133",
+        "nosaukums": "Briljantzilais FCF",
+        "kastasir":"Krāsviela (koši zila)",
+        "komentārs":"dažās valstīs aizliegts; nav ieteicams bērniem; kancerogēna viela; astma; nātrene; alerģiskas reakcijas; siena drudzis"
+    },
+    {
+        "skaitlis":"E154",
+        "nosaukums": "Brūnais FK",
+        "kastasir":"Krāsviela (brūna)",
+        "komentārs":"dažās valstīs aizliegts; nav ieteicams bērniem; astma; nātrene; alerģiskas reakcijas; var ietekmēt sirdi, nieres, aknas un vairogdziederi"
+    },
+    {
+        "skaitlis":"E155",
+        "nosaukums": "Brūnais HT",
+        "kastasir":"Krāsviela (brūna)",
+        "komentārs":"akmeņogļu darvas un azokrāsviela; dažās valstīs aizliegts; nav ieteicams bērniem; astma; alerģiskas reakcijas"
+    },
+    {
+        "skaitlis":"E943a",
+        "nosaukums": "Butāns",
+        "kastasir":"Šķīdinātājs, propelents",
+        "komentārs":"naftas atvasinājums; CNS depresija; NIH bīstamo vielu sarakstā; neirotiska viela"
+    },
+    {
+        "skaitlis":"E320",
+        "nosaukums": "Butilēts hidroksianizols",
+        "kastasir":"Antioksidants, konservants",
+        "komentārs":"(BHA; naftas derivāts; dažās valstīs aizliegts) kancerogēna viela; nav ieteicams bērniem; nātrene; siena drudzis; astma; galvassāpes; var ietekmēt nieres, aknas, vairogdziedzeri, kuņģi un dzimumorgānus; taretogēns"
+    },
+    {
+        "skaitlis":"E321",
+        "nosaukums": "Butilēts hidroksitoluols",
+        "kastasir":"Antioksidants, konservants",
+        "komentārs":"(BHT; naftas derivāts; dažās valstīs aizliegts) nav ieteicams bērniem; nātrene; dermatīts; astma; var ietekmēt dzimumorgānus, nieres, kunģi un aknas; bronhu spazmas"
+    },
+    {
+        "skaitlis":"E460",
+        "nosaukums": "Celuloze",
+        "kastasir":"Pretsalipes viela, saistviela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E1450",
+        "nosaukums": "Cietes nātrija oktenilsukcināts",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Pastāv neskaidrības par modificētas cietes nekaitīgumu, īpaši - zīdaiņiem"
+    },
+    {
+        "skaitlis":"E952",
+        "nosaukums": "Ciklāmskābe un tās nātrija un kalcija sāļi",
+        "kastasir":"Mākslīgs saldinātājs, garšas un aromāta pastiprinātājs",
+        "komentārs":"(dažās valstīs aizliegti) kancerogēns; var ietekmēt nieres, sirdi, asinsriti, asinis, vairošanās funkciju, aknas, vairogdziedzeri; nātrene; ādas slimības; migrēna"
+    },
+    {
+        "skaitlis":"E650",
+        "nosaukums": "Cinka acetāts",
+        "kastasir":"Garšas un aromāta pastiprinātājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā; liels daudzums var izraisīt nelabumu un vemšana"
+    },
+    {
+        "skaitlis":"E330",
+        "nosaukums": "Citronskābe",
+        "kastasir":"Skābuma regulētājs, aromātviela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; piemīt labvēlīgu ietekmi uz veselību; var izraisīt alerrģisku reakciju cilvēkiem, kas reaģē uz mononātrija glutamātu; var saasināt herpesvīrusu"
+    },
+    {
+        "skaitlis":"E309",
+        "nosaukums": "Delta-tokoferols",
+        "kastasir":"Antioksidants",
+        "komentārs":"(E vitamīns; var būt ģenētiski modificēts) Ir pierādīts, ka E vitamīnam piemīt organisma aizsargfunkcija"
+    },
+    {
+        "skaitlis":"E1412",
+        "nosaukums": "Dicietes fosfāts",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Modificēta ciete; Pastāv neskaidrības par modificētas cietes nekaitīgumu, īpaši - zīdaiņiem"
+    },
+    {
+        "skaitlis":"E230",
+        "nosaukums": "Difenils, bifenils",
+        "kastasir":"Pretsēnīšu līdzeklis, konservants",
+        "komentārs":"(ražo no benzola; dažās valstīs aizliegts) saskare var izraisīt acu un deguna kairinājumu; vemšana; CNS depredija; toksiska iedarbība uz nierēm, elpošanas orgāniem, asinsrites orgāniem un nervu sistēmu"
+    },
+    {
+        "skaitlis":"E450",
+        "nosaukums": "Difosfāti",
+        "kastasir":"Buferviela, sekvestrants",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā; pārmērīga daudzums var izraisīt nieru bojājumu, samazina kaulu blīvumu; osteoporoze"
+    }
+    ,
+    {
+        "skaitlis":"E628",
+        "nosaukums": "Dikālija guanilāts",
+        "kastasir":"Garšas un aromāta pastiprinātājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; cilvēkiem, kam ir podagra vai urīnskābes akmeņi, vajadzētu izvairīties"
+    },
+    {
+        "skaitlis":"E632",
+        "nosaukums": "Dikālija inozināts",
+        "kastasir":"Garšas un aromāta pastiprinātājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; var izraisīt podagru"
+    }
+]

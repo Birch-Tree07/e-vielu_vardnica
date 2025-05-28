@@ -1,0 +1,157 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  height: 100%;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: #89ad27;
+  color: #173a03;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*teksti*/
+h1 {
+    font-size: 2.7em;
+    font-weight: bold;
+    margin-bottom:0;
+}
+h2 {
+    font-size: 1.7em;
+    font-weight: bold;
+    margin-top:5pt;
+}
+
+/*Pogas*/
+.AtrastN, .AtrastS{
+    background-color: #95bd4a;
+    border-style:solid;
+    border-color: #275e05;
+    border-width: 3pt;
+    padding:5pt;
+    border-radius: 5pt;
+    width: 30%;
+    margin: 10pt;
+    color:#173a03;
+}
+.ETipi{
+    background-color: #95bd4a;
+    border-style:solid;
+    border-color: #275e05;
+    border-width: 3pt;
+    padding-top:3pt;
+    padding-bottom:3pt;
+    padding-left:7pt;
+    padding-right:7pt;
+    border-radius: 5pt;
+    margin: 10pt;
+    color:#173a03;
+}
+.Atpakaļ{
+    background-color: #95bd4a;
+    border-style:solid;
+    border-color: #275e05;
+    border-width: 3pt;
+    padding-top:3pt;
+    padding-bottom:3pt;
+    padding-left:7pt;
+    padding-right:7pt;
+    border-radius: 5pt;
+    position: fixed; 
+    top: 20px; 
+    left: 20px; 
+    margin-bottom: 20pt; 
+    z-index:1000;
+}
+.AtrastN:hover, .AtrastS:hover, .AtrastN:active, .AtrastS:active, .Atpakaļ:hover, .Atpakaļ:active{  
+    background-color: #275e05;
+    color: #add95c;
+    cursor: pointer;
+}
+
+.ETipi:active, .ETipi:hover{
+    background-color:#275e05;
+    color:#bde452;
+}
+
+/*citas lietas*/
+hr{
+    width:50%;
+    color:#1b4402;
+    border:solid;
+}
+.Kolonna{
+    border-style:hidden;
+    padding:5pt;
+    padding-top:7%;
+    width: 100%;
+    height:100%;
+    display: inline-block;
+    text-align: center;
+    background: linear-gradient(to bottom, #89ad27, #4b7327);
+}
+.KolonnaT{
+    border-style:hidden;
+    padding:5pt;
+    padding-top:60pt;
+    width: 100%;
+    height:100%;
+    position:relative;
+    text-align:center;
+    overflow:auto;
+}
+table {  overflow-x:auto;
+  overflow-y:auto;
+}
+table, td, th{
+    border-style:solid;
+    border-color: #1b4402;
+    border-width: 3pt;
+}
+table {
+    border-collapse:collapse;
+    width: 100%;
+}
+td{
+    padding:7pt 5pt;
+    font-size: 1.2em;
+}
+
+th{
+    font-size: 1.2em;
+    padding:7pt;
+    background-color: #1b4402;
+    color: #95bd4a;
+}
+.Izcelti{
+    background-color:#275e05;
+    color: #95bd4a;
+}
+
+#TabulaTipi{
+    margin-top:10pt;
+    width:85%;
+    display:inline-block;
+    border:none;
+    text-align:center;
+    background-color:#649520;
+}
+
+
+#SearchBox{
+    border-radius:25px ;
+    padding:4pt;
+    Border:1pt solid #1b4402;
+    background-color: #bde452;
+    width:50%;
+    margin:10pt;
+}
+script{
+    display:table;
+}

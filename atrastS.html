@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>E-vielas</title>
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="KolonnaT">
+    <button class="Atpakaļ" onclick="document.location='index.html'">Atpakaļ</button>
+    <h2>Ievadi e-vielas skaitli</h2>
+        <input type="text" onkeyup="Mekle()" id="SearchBox" placeholder="⌕ Search">
+        <button class="ETipi" onclick="document.location='E-vieluTipi.html'">E-vielu tipi</button>
+
+        <table id="Evielu-TabulaS">
+        <thead>
+            <tr>
+                <th>SK.</th>
+                <th>Nosaukums</th>
+                <th>Kas tā par vielu?</th>
+                <th>Komentāri</th>
+            </tr>
+        </thead>
+        <tbody id="table-body">
+            
+        </tbody>
+    </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
