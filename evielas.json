@@ -378,4 +378,135 @@
         "kastasir":"Garšas un aromāta pastiprinātājs",
         "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; var izraisīt podagru"
     }
+        "skaitlis":"E242",
+        "nosaukums": "Dimetildikarbonāts",
+        "kastasir":"Konservants,fungicīds",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E900",
+        "nosaukums": "Dimetilpolisiloksāns",
+        "kastasir":"Putu dzēsējs",
+        "komentārs":"Var izraisīt nelabumu vai caureju"
+    },
+    {
+        "skaitlis":"E635",
+        "nosaukums": "Dinātrija 5-ribonukleotīdi",
+        "kastasir":"Garšas un aromāta pastiprinātājs",
+        "komentārs":"Dažās valstīs aizliegts; nav ieteicams bērniem; var izraisīt niezošus atsitumus uz ādas pēc lietošanas, astmu, hiperaktivitāti, garastāvokļa maiņas; vajadzētu izvairīties cilvēkiem, kas ir jutīgi pret aspirīnu"
+    },
+    {
+        "skaitlis":"E627",
+        "nosaukums": "Dinātrija guanilāts",
+        "kastasir":"Garšas un aromāta pastiprinātājs",
+        "komentārs":"(dzīvnieku izcelsme; bieži satur mononātrija glutamātu) Nav ieteicams bērniem; vajadzētu izvairīties cilvēkiem, kas ir jutīgi pret aspirīnu, kā arī cilvēkiem ar podagru vai urīnskābes akmeņiem"
+    },
+    {
+        "skaitlis":"E631",
+        "nosaukums": "Dinātrija inozināts",
+        "kastasir":"Garšas un aromāta pastiprinātājs",
+        "komentārs":"Nav ieteicams bērniem; cilvēkiem ar podagru vai urīnskābes akmeņiem vajadzētu izvairīties; var izraisīt nieru problēmas"
+    },
+    {
+        "skaitlis":"E312",
+        "nosaukums": "Dodecilgallāts",
+        "kastasir":"Antioksidants",
+        "komentārs":"(Gallskābes esteris, iegūts no tanīna) Nav ieteicams bērniem; alerģiskas reakcijas; Var kairināt kuņģi; cilvēkiem, kas ir jutīgi pret aspirīnu vajadzētu izvairīties; izraisa patoloģiskas izmaiņas žurku liesā, nierēs un aknās"
+    },
+    {
+        "skaitlis":"E579",
+        "nosaukums": "Dzelzs (II ) glukonāts",
+        "kastasir":"Krāsas stabilizētājs, garšas un aromāta pastiprinātājs",
+        "komentārs":"Var būt ģenētiski modificēts; lielā daudzumā toksisks; var izraisīt caureju, vemšanu; var ietekmēt kuņģa un zarnu traktu, aknas un kuņģi; pelēm izraisa audzēju"
+    },
+    {
+        "skaitlis":"E585",
+        "nosaukums": "Dzelzs (II ) laktāts",
+        "kastasir":"Krāsas nostiprinātājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; pelēm izraisa audzēju, ja injicē zem ādas"
+    },
+    {
+        "skaitlis":"E172",
+        "nosaukums": "Dzelzs oksīdi un dzelzs hidroksīdi",
+        "kastasir":"Krāsviela (sarkana, brūna, melna, oranža, dzeltena)",
+        "komentārs":"(rūsa; sintētiski dzelzs oksīdi un hidroksīdi; dažās valstīs aizliegti) Dzels ir potenciāli toksiska visās formās; pārmērīgs daudzums var rasīt risku saslimt ar daudzām slimībām"
+    },
+    {
+        "skaitlis":"E363",
+        "nosaukums": "Dzintarskābe",
+        "kastasir":"Garšas un aromātapastiprinātājs, skābuma regulētājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā; pārmērīgs daudzums var izraisīt vemšanu un caureju"
+    },
+    {
+        "skaitlis":"E315",
+        "nosaukums": "Eritorbīnskābe",
+        "kastasir":"Antioksidants,konservants",
+        "komentārs":"Dažiem cilvēkiem var izraisīt alerģiskas reakcijas; tam ir tikai 5 % no askorbīnskābes vitamīna kapacitātes"
+    },
+    {
+        "skaitlis":"E127",
+        "nosaukums": "Eritrozīns",
+        "kastasir":"Krāsviela (zilgani sārta)",
+        "komentārs":"(FD un C sarkanais nr. 3; akmeņogļu darvas krāsa; dažās valstīs aizliegts) Kancerogāns; Var izraisīt astmu, hiperaktivitāti, nātreni, mācīšanās grūtības, pastiprinātu jūtīgumu pret gaismu; var ietekmēt aknas, sirdi, vairogdziedzeri, vairošanās funkciju, kuņģi"
+    },
+    {
+        "skaitlis":"E260",
+        "nosaukums": "Etiķskābe",
+        "kastasir":"Pārtikas skābe, buferviela",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; var izraisīt ādas kairinājumu, nātreni, izsitumus uz ādas; ja iebaro vai injicē žurkām un pelēm izraisa vēzi; kaitīga ūdenī mītošiem dzīvniekiem"
+    },
+    {
+        "skaitlis":"E465",
+        "nosaukums": "Etilmetilceluloze",
+        "kastasir":"Biezinātājs, emulgators",
+        "komentārs":"(iegūst no koksnes vai ķīmiskās kokvilnas) Var izraisīt gremošanas problēmas; caureja; gāzu uzkrāšanās; kuņģa un zarnu trakta darbības traucējumi"
+    },
+    {
+        "skaitlis":"E214",
+        "nosaukums": "Etil-p-hidroksibenzoāts",
+        "kastasir":"Konservants",
+        "komentārs":"Var izraisīt alerģiskas reakcijas, astmu, nātreni; ādas apsārtums, nieze un uztūkums; anafilakse"
+    },
+    {
+        "skaitlis":"E469",
+        "nosaukums": "Fermentatīvi hidrolizēta karboksimetilceluloze",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Sk. Karboksi-metilceluloze (E466)"
+    },
+    {
+        "skaitlis":"E1413",
+        "nosaukums": "Fosfatētas dicietes fosfāts",
+        "kastasir":"Biezinātājs, stabilizētājs",
+        "komentārs":"Modificēta ciete; Pastāv neskaidrības par modificētas cietes nekaitīgumu, īpaši - zīdaiņiem"
+    },
+    {
+        "skaitlis":"E338",
+        "nosaukums": "Fosforskābe",
+        "kastasir":"Skābuma regulētājs",
+        "komentārs":"(gatavo no fosfāta ieža)Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā; pārmērīgs daudzums var izraisīt zobu eroziju un kalcija zudumu kaulos"
+    },
+    {
+        "skaitlis":"E297",
+        "nosaukums": "Fumārskābe",
+        "kastasir":"Pārtikas skābe,antioksidants",
+        "komentārs":"(gatavo, raudzējot glikozi vai melasi) Uzskata par nekaitīgu lietošanai uzturā"
+    },
+    {
+        "skaitlis":"E308",
+        "nosaukums": "Gamma-tokoferols",
+        "kastasir":"Antioksidants",
+        "komentārs":"(sintētisks; var būt ģenētiski modificēts) E vitamīns; piemīt cilvēka organisma aizsargfunkcija"
+    },
+    {
+        "skaitlis":"E1518",
+        "nosaukums": "Gliceriltriacetāts; triacetīns",
+        "kastasir":"Šķīdinātājs",
+        "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; žurkām lielas dozas injekcijas ir nāvējošas"
+    },
+    {
+        "skaitlis":"E422",
+        "nosaukums": "Glicerīns",
+        "kastasir":"Šķīdinātājs, mitrumuzturētājs",
+        "komentārs":"(sintētisks; ziepju ražošanas blakusprodukts; var būt dzīvnieku izcelsme) Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā; var izraisīt garīgu apmūlsumu, galvas sāpes; var ietekmēt kunģi, sirdi, vairošanās funkcijas, cukura līmeni asinīs"
+    }
 ]
