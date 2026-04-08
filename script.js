@@ -8,9 +8,9 @@ document.addEventListener('DOMContentLoaded', () => {
                  const row = document.createElement('tr');
                   row.innerHTML = `
                      <td class="Izcelti">${substance.skaitlis}</td>
-                     <td>${substance.nosaukums}</td>
+                     <td class="Izcelti2">${substance.nosaukums}</td>
                      <td class="Izcelti">${substance.kastasir}</td>
-                     <td>${substance.komentārs}</td>
+                     <td class="Izcelti2">${substance.komentārs}</td>
                   `;
                   tableBody.appendChild(row);
               });
