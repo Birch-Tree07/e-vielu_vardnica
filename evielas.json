@@ -364,8 +364,7 @@
         "nosaukums": "Difosfāti",
         "kastasir":"Buferviela, sekvestrants",
         "komentārs":"Uzskata par nekaitīgu lietošanai uzturā nelielā daudzumā; pārmērīga daudzums var izraisīt nieru bojājumu, samazina kaulu blīvumu; osteoporoze"
-    }
-    ,
+    },
     {
         "skaitlis":"E628",
         "nosaukums": "Dikālija guanilāts",
@@ -377,7 +376,8 @@
         "nosaukums": "Dikālija inozināts",
         "kastasir":"Garšas un aromāta pastiprinātājs",
         "komentārs":"Uzskata par nekaitīgu lietošanai uzturā; var izraisīt podagru"
-    }
+    },
+    {
         "skaitlis":"E242",
         "nosaukums": "Dimetildikarbonāts",
         "kastasir":"Konservants,fungicīds",
