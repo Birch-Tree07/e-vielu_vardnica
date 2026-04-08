@@ -8,8 +8,8 @@ body {
   margin: 0;
   height: 100%;
   font-family:Georgia, 'Times New Roman', Times, serif;
-  background-color: #89ad27;
-  color: #173a03;
+  background-color: #efe9d8;
+  color: #344e41;
 }
 
 * {
@@ -30,20 +30,20 @@ h2 {
 
 /*Pogas*/
 .AtrastN, .AtrastS{
-    background-color: #95bd4a;
+    background-color: #b3c88e;
     border-style:solid;
-    border-color: #275e05;
+    border-color: #396653;
     border-width: 3pt;
     padding:5pt;
     border-radius: 5pt;
     width: 30%;
     margin: 10pt;
-    color:#173a03;
+    color:#344e41;
 }
 .ETipi{
-    background-color: #95bd4a;
+    background-color: #b3c88e;
     border-style:solid;
-    border-color: #275e05;
+    border-color: #396653;
     border-width: 3pt;
     padding-top:3pt;
     padding-bottom:3pt;
@@ -51,12 +51,12 @@ h2 {
     padding-right:7pt;
     border-radius: 5pt;
     margin: 10pt;
-    color:#173a03;
+    color:#344e41;
 }
 .Atpakaļ{
-    background-color: #95bd4a;
+    background-color: #b3c88e;
     border-style:solid;
-    border-color: #275e05;
+    border-color: #396653;
     border-width: 3pt;
     padding-top:3pt;
     padding-bottom:3pt;
@@ -70,20 +70,20 @@ h2 {
     z-index:1000;
 }
 .AtrastN:hover, .AtrastS:hover, .AtrastN:active, .AtrastS:active, .Atpakaļ:hover, .Atpakaļ:active{  
-    background-color: #275e05;
-    color: #add95c;
+    background-color: #396653;
+    color: #b3c88e;
     cursor: pointer;
 }
 
 .ETipi:active, .ETipi:hover{
-    background-color:#275e05;
-    color:#bde452;
+    background-color:#396653;
+    color:#b3c88e;
 }
 
 /*citas lietas*/
 hr{
     width:50%;
-    color:#1b4402;
+    color:#344e41;
     border:solid;
 }
 .Kolonna{
@@ -94,7 +94,7 @@ hr{
     height:100%;
     display: inline-block;
     text-align: center;
-    background: linear-gradient(to bottom, #89ad27, #4b7327);
+    background: linear-gradient(to bottom, #efe9d8, #e3d3a5);
 }
 .KolonnaT{
     border-style:hidden;
@@ -111,7 +111,7 @@ table {  overflow-x:auto;
 }
 table, td, th{
     border-style:solid;
-    border-color: #1b4402;
+    border-color: #344e41;
     border-width: 3pt;
 }
 table {
@@ -126,29 +126,43 @@ td{
 th{
     font-size: 1.2em;
     padding:7pt;
-    background-color: #1b4402;
-    color: #95bd4a;
+    background-color: #344e41;
+    color: #efe9d8;
 }
 .Izcelti{
-    background-color:#275e05;
-    color: #95bd4a;
+    background-color:#5f8a5e;
+    color: #b3c88e;
 }
-
+.Izcelti2{
+    background-color:#b3c88e;
+    color: #344e41;
+}
+.Uzmanību{
+    background-color:#5f8a5e;
+    color: #efe9d8;
+    padding:6px;
+}
 #TabulaTipi{
     margin-top:10pt;
     width:85%;
     display:inline-block;
     border:none;
     text-align:center;
-    background-color:#649520;
+    background-color:#b3c88e;
 }
-
+#TabulaIzvairies{
+    margin-top:10pt;
+    width:100%;
+    display:inline;
+    border:none;
+    text-align:center;
+}
 
 #SearchBox{
     border-radius:25px ;
     padding:4pt;
-    Border:1pt solid #1b4402;
-    background-color: #bde452;
+    Border:1pt solid #344e41;
+    background-color: #b3c88e;
     width:50%;
     margin:10pt;
 }
