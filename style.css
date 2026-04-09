@@ -98,7 +98,7 @@ hr{
     height:100%;
     display: inline-block;
     text-align: center;
-    background: linear-gradient(to bottom, #efe9d8, #e3d3a5);
+    background: linear-gradient(in hsl longer hue, to bottom, #efe9d8, #e3d3a5);
     background-size: cover;
 }
 .KolonnaT{
