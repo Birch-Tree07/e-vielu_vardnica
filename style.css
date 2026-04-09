@@ -1,5 +1,5 @@
 html {
-  height: 100%;
+  min-height: 100%;
   width: 100%;
   margins:0;
   padding:0;
@@ -9,9 +9,9 @@ body {
   text-align: center;
   margin: 0;
   paddinh:0;
-  height: 100%;
+  min-height: 100%;
   font-family:Georgia, 'Times New Roman', Times, serif;
-  background-color: #e3d3a5;
+  background-color: #efe9d8;
   color: #344e41;
 }
 
