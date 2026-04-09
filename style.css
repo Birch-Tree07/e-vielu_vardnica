@@ -122,7 +122,10 @@ td{
     padding:7pt 5pt;
     font-size: 1.2em;
 }
-
+ul{
+    text-align:left;
+    padding-bottom:20pt;
+}
 th{
     font-size: 1.2em;
     padding:7pt;
@@ -152,7 +155,7 @@ th{
 }
 #TabulaIzvairies{
     margin-top:10pt;
-    width:100%;
+    width:85%;
     display:inline;
     border:none;
     text-align:center;
