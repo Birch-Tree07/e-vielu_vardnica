@@ -11,7 +11,7 @@ body {
   paddinh:0;
   height: 100%;
   font-family:Georgia, 'Times New Roman', Times, serif;
-  background-color: #efe9d8;
+  background-color: #e3d3a5;
   color: #344e41;
 }
 
@@ -88,6 +88,8 @@ hr{
     width:50%;
     color:#344e41;
     border:solid;
+    padding-top:10pt;
+    padding-bottom:10pt;
 }
 .Kolonna{
     border-style:hidden;
