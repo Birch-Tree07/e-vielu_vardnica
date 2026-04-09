@@ -98,7 +98,7 @@ hr{
     height:100%;
     display: inline-block;
     text-align: center;
-    background: linear-gradient(in hsl longer hue, to bottom, #efe9d8, #e3d3a5);
+    background: linear-gradient( to bottom, #efe9d8, #e3d3a5);
     background-size: cover;
 }
 .KolonnaT{
@@ -148,7 +148,8 @@ th{
 .Uzmanību{
     background-color:#5f8a5e;
     color: #efe9d8;
-    padding:6px;
+    padding-top:6px;
+    padding-bottom:6px;
 }
 #TabulaTipi{
     margin-top:10pt;
