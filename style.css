@@ -1,11 +1,14 @@
 html {
   height: 100%;
   width: 100%;
+  margins:0;
+  padding:0;
 }
 
 body {
   text-align: center;
   margin: 0;
+  paddinh:0;
   height: 100%;
   font-family:Georgia, 'Times New Roman', Times, serif;
   background-color: #efe9d8;
@@ -156,7 +159,7 @@ th{
 #TabulaIzvairies{
     margin-top:10pt;
     width:85%;
-    display:inline;
+    display:inline-block;
     border:none;
     text-align:center;
     padding-top:10pt;
