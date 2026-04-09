@@ -100,6 +100,7 @@ hr{
     display: inline-block;
     text-align: center;
     background: linear-gradient(to bottom, #efe9d8, #e3d3a5);
+    background-size: cover;
 }
 .KolonnaT{
     border-style:hidden;
